@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-
+/mysanityblog/node_modules
 # production
 /build
 
